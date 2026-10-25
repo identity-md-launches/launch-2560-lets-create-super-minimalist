@@ -1,0 +1,3 @@
+# Path budget: dependency directories at any depth and disposable checks only.
+**/node_modules/
+/test/scratch/
